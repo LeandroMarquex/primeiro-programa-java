@@ -16,6 +16,7 @@ public class EntradaDeDadosComJoptionPane {
 		
 		double resto = carroNumero % pessoaNumero;
 		
+		
 		JOptionPane.showConfirmDialog(null, "Divisão para pessoas deu "  + divisao + " carros e sobrou " + resto + " carros ");
 	}
 
